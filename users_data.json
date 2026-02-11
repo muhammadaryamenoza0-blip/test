@@ -1,0 +1,66 @@
+{
+  "users": {
+    "admin": {
+      "password": "1234",
+      "msg": "Selamat datang, Admin. Dunia aman di tanganmu.",
+      "role": "admin",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "user": {
+      "password": "4321",
+      "msg": "Halo User. Hidup memang absurd, tapi jalan terus.",
+      "role": "admin",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "guest": {
+      "password": "0000",
+      "msg": "Selamat datang, tamu yang terhormat. Janganlah engkau terlalu banyak berfikir tentang hal yang tak perlu.",
+      "role": "user",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "friend": {
+      "password": "1111",
+      "msg": "halo teman semoga kau selalu sehat dan mendapatkan apa yang kau inginkan",
+      "role": "user",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "ma biche": {
+      "password": "151225",
+      "msg": "je t'aime,ma biche",
+      "role": "user",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "arya": {
+      "password": "211108",
+      "msg": "Selamat datang, arya!",
+      "role": "admin",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    },
+    "akmal": {
+      "password": "1234",
+      "msg": "Selamat datang, akmal!",
+      "role": "user",
+      "bg_color": "#000000",
+      "text_color": "#ffffff",
+      "theme": "dark"
+    }
+  },
+  "pending_users": {
+    "newuser": {
+      "password": "testpass123"
+    }
+  },
+  "admin_panel_enabled": true
+}
